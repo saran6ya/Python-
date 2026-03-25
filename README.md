@@ -1,2 +1,2 @@
 # Python-
-Python Basic mini Projects
+Python number guessing game
